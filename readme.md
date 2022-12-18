@@ -20,7 +20,10 @@ https://user-images.githubusercontent.com/62974484/205674111-0dab7ee2-14af-4576-
   - game over
 - 피격 구현
 
-https://user-images.githubusercontent.com/62974484/208306969-b0289854-c6ba-4b0d-8a7a-a63483bea0f8.mp4
+https://user-images.githubusercontent.com/62974484/208307100-a2785911-0ba7-4eea-80b3-bd2e8d7135fa.mp4
+
+
+
 
 
 
