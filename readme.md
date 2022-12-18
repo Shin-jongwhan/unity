@@ -7,7 +7,8 @@
 ## 골드메탈 슈팅게임 모바일
 ### [골드메탈 슈팅게임 모바일](https://www.youtube.com/watch?v=JUG0GnsJHQw&list=PLO-mt5Iu5TeYtWvM9eN-xnwRbyUAMWd3b&index=2)
 ### 1 ~ 2회차
-#### https://user-images.githubusercontent.com/62974484/205674111-0dab7ee2-14af-4576-a573-2ba0d9b25f34.mp4
+
+https://user-images.githubusercontent.com/62974484/205674111-0dab7ee2-14af-4576-a573-2ba0d9b25f34.mp4
 
 ### <br/><br/><br/>
 
@@ -18,7 +19,8 @@
   - score
   - game over
 - 피격 구현
-#### https://user-images.githubusercontent.com/62974484/208306969-b0289854-c6ba-4b0d-8a7a-a63483bea0f8.mp4
+- 
+https://user-images.githubusercontent.com/62974484/208306969-b0289854-c6ba-4b0d-8a7a-a63483bea0f8.mp4
 
 
 
