@@ -11,13 +11,18 @@ public class Player : MonoBehaviour
     public float maxShotDelay;      // 최대
     public float curShotDelay;      // 현재
 
+    public int life;
+    public int score;
     public bool isTouchTop;
     public bool isTouchBottom;
     public bool isTouchRight;
     public bool isTouchLeft;
+    public bool isHit;
 
     public GameObject bulletObjA;
     public GameObject bulletObjB;
+
+    public GameManager manager;
 
     Animator anim;
     
@@ -117,6 +122,23 @@ public class Player : MonoBehaviour
                     isTouchLeft = true;
                     break;
             }
+        }
+        else if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "EnemyBullet") {
+            if (isHit) {
+                return;
+            }
+            isHit = true;
+            life--;
+            manager.UpdateLifeIcon(life);
+
+            if (life == 0){
+                manager.GameOver();
+            }
+            else {
+                manager.RespawnPlayer();
+            }
+            gameObject.SetActive(false);        // 게임오브젝트 비활성화
+            manager.RespawnPlayer();
         }
     }
 
