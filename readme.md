@@ -35,6 +35,13 @@ https://user-images.githubusercontent.com/62974484/208472829-338ac216-31ee-4f01-
 
 ### <br/><br/><br/>
 
+## 7 회차
+- 배경 : 3 개 레이어를 하여 원근감을 표현한다. 멀리 있는 거는 속도를 느리게, 가까이 있는 거는 속도를 빠르게.
+- 이를 parallax 라고 한다.
+### <br/>
+https://user-images.githubusercontent.com/62974484/208492629-6057a65e-9052-485f-9211-55f56666050e.mp4
+
+### <br/><br/><br/>
 
 
 
