@@ -19,9 +19,21 @@ https://user-images.githubusercontent.com/62974484/205674111-0dab7ee2-14af-4576-
   - score
   - game over
 - 피격 구현
-
+### <br/>
 https://user-images.githubusercontent.com/62974484/208307100-a2785911-0ba7-4eea-80b3-bd2e8d7135fa.mp4
 
+### <br/><br/><br/>
+
+## 6 회차
+- 아이템 구현
+  - power
+  - coin
+  - boom
+- 점수 구현
+### <br/>
+https://user-images.githubusercontent.com/62974484/208472829-338ac216-31ee-4f01-956a-594ff8c14ed4.mp4
+
+### <br/><br/><br/>
 
 
 
